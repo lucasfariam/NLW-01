@@ -5,9 +5,13 @@ NLW é uma semana prática com muito código, desafios, networking e um único o
 
 Dias
 Dia 1: Acelerando sua evolução 01/06 - ✔️
+
 Dia 2: Olhando para as oportunidades 02/06 - ✔️
+
 Dia 3: A escolha da Stack 03/06 - ✔️
+
 Dia 4: Até 2 anos em 2 meses 04/06 - ✔️
+
 Dia 5: Milha extra 05/06 - ✔️
 
  Projeto
